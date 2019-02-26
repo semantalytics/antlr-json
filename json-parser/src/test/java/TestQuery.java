@@ -1,5 +1,3 @@
-package com.semantaltyics.antlr.xquery.xquery31;
-
 import org.junit.Test;
 import org.junit.runners.Parameterized.Parameter;
 
